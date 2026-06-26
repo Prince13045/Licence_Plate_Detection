@@ -1,0 +1,10 @@
+pandas
+matplotlib
+streamlit
+opencv-python
+ultralytics
+numpy
+sklearn
+torch
+ipywidgets
+easyocr

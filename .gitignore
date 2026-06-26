@@ -1,0 +1,9 @@
+data/
+*.avi
+*.mp4
+*.jpg
+*.png
+pt_models/
+Lib/
+Scripts/
+__pycache__/
